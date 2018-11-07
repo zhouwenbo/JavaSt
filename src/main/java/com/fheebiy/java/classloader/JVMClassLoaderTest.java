@@ -19,7 +19,5 @@ public class JVMClassLoaderTest {
         }
         System.out.println(cl);
 
-
-
     }
 }
